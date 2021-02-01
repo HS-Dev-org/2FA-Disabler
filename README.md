@@ -9,4 +9,4 @@ Discord token 2FA Disabler
 
 # How to use 
 
-![i sell bobux](https://im.ezgif.com/tmp/ezgif-1-760d934948bc.gif)
+# ![i sell bobux](https://im.ezgif.com/tmp/ezgif-1-760d934948bc.gif)
